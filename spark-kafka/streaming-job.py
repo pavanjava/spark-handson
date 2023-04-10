@@ -24,10 +24,10 @@ df = spark.readStream.format("kafka") \
 stream_df = df.selectExpr("CAST(key AS STRING)", "CAST(value AS STRING)")
 
 structured_df = stream_df.withColumn("value", from_json("value", schema=schema)) \
-    .select(col("value.*"))
+    .select(col("key"), col("value.*"))
 
-structured_df.filter(col("amount") > 1000).writeStream \
+structured_df.filter(col("amount") > 500).writeStream \
     .format("console") \
-    .outputMode("complete") \
+    .outputMode("update") \
     .start() \
     .awaitTermination()
