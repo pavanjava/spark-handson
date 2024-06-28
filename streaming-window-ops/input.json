@@ -1,0 +1,31 @@
+[{"ticker":"Hon", "price":175.96, "feed_ts":"2021-06-25 00:00:00"},
+{"ticker":"Hon", "price":192.96, "feed_ts":"2021-06-25 00:00:01"},
+{"ticker":"Hon", "price":185.96, "feed_ts":"2021-06-25 00:00:02"},
+{"ticker":"Hon", "price":184.96, "feed_ts":"2021-06-25 00:00:07"},
+
+
+{"ticker":"Hon", "price":144.96, "feed_ts":"2021-06-25 00:00:10"},
+{"ticker":"Hon", "price":148.96, "feed_ts":"2021-06-25 00:00:11"},
+{"ticker":"Hon", "price":145.96, "feed_ts":"2021-06-25 00:00:12"},
+{"ticker":"Hon", "price":142.96, "feed_ts":"2021-06-25 00:00:13"},
+{"ticker":"Hon", "price":138.96, "feed_ts":"2021-06-25 00:00:14"},
+{"ticker":"Hon", "price":147.96, "feed_ts":"2021-06-25 00:00:15"},
+
+
+{"ticker":"Hon", "price":180.96, "feed_ts":"2021-06-25 00:00:21"},
+{"ticker":"Hon", "price":183.96, "feed_ts":"2021-06-25 00:00:22"},
+{"ticker":"Hon", "price":182.96, "feed_ts":"2021-06-25 00:00:28"},
+
+
+{"ticker":"Hon", "price":190.96, "feed_ts":"2021-06-25 00:00:31"},
+{"ticker":"Hon", "price":191.96, "feed_ts":"2021-06-25 00:00:32"},
+{"ticker":"Hon", "price":193.96, "feed_ts":"2021-06-25 00:00:38"},
+{"ticker":"Hon", "price":196.96, "feed_ts":"2021-06-25 00:00:31"},
+{"ticker":"Hon", "price":197.96, "feed_ts":"2021-06-25 00:00:32"},
+{"ticker":"Hon", "price":194.96, "feed_ts":"2021-06-25 00:00:38"},
+{"ticker":"Hon", "price":194.34, "feed_ts":"2021-06-25 00:00:31"},
+{"ticker":"Hon", "price":189.96, "feed_ts":"2021-06-25 00:00:32"},
+{"ticker":"Hon", "price":190.96, "feed_ts":"2021-06-25 00:00:38"},
+{"ticker":"Hon", "price":191.96, "feed_ts":"2021-06-25 00:00:31"},
+{"ticker":"Hon", "price":195.96, "feed_ts":"2021-06-25 00:00:32"},
+{"ticker":"Hon", "price":197.96, "feed_ts":"2021-06-25 00:00:38"}]
